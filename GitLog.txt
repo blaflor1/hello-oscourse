@@ -1,0 +1,24 @@
+commit 85ca3b185d77e29fbf17562c5d7b540a763c3c1e
+Merge: 8498870 ed485a7
+Author: csvb <csvb@CS350-blaflor1.csvb.local>
+Date:   Thu Oct 19 23:34:39 2017 -0400
+
+    Merge branch 'master' of https://github.com/blaflor1/hello-oscourse
+
+commit 84988704ec597a6f7ab28d8640d0ede2950b319b
+Author: csvb <csvb@CS350-blaflor1.csvb.local>
+Date:   Thu Oct 19 23:31:51 2017 -0400
+
+    commiting for upload
+
+commit ed485a7183dfad2c5b90c12575ed54f25f8eeb09
+Author: blaflor1 <31286329+blaflor1@users.noreply.github.com>
+Date:   Tue Sep 26 12:20:51 2017 -0400
+
+    Add files via upload
+
+commit e7018bbca73955c5ea1b1dabbe83c876b8b36e43
+Author: blaflor1 <31286329+blaflor1@users.noreply.github.com>
+Date:   Tue Sep 26 12:01:21 2017 -0400
+
+    Initial commit
